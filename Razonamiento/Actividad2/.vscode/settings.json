@@ -1,0 +1,16 @@
+{
+    "pddl.selectedPlanner": "https://solver.planning.domains:5001/package",
+    "pddlParser.executableOrService": "c:\\Users\\Usuario\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\Parser.exe",
+    "pddl.validatorPath": "c:\\Users\\Usuario\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\Validate.exe",
+    "pddl.valueSeqPath": "c:\\Users\\Usuario\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\ValueSeq.exe",
+    "pddl.valStepPath": "c:\\Users\\Usuario\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\ValStep.exe",
+    "files.autoSave": "afterDelay",
+    "pddl.planners": [
+        {
+            "kind": "planutils_server",
+            "url": "https://solver.planning.domains:5001/package",
+            "title": "https://solver.planning.domains:5001/package",
+            "canConfigure": true
+        }
+    ]
+}
